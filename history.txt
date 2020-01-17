@@ -309,3 +309,57 @@
   309  rm history.txt
   310  git checkout history
   311  history > history.txt
+  312  ls -a
+  313  git log
+  314  git status
+  315  git add history.txt
+  316  git status
+  317  git commit -m "added history"
+  318  git log
+  319  git checkout history
+  320  cat README.md
+  321  rm README.md
+  322  echo "booya" > README.md
+  323  cat README.md
+  324  rm README.md
+  325  echo "booya" > README.md
+  326  rm README.md echo "booya" > README.md 
+  327  cat README.md
+  328  echo "booya" > README.md
+  329  cat README.md
+  330  ls -a
+  331  cat README.md
+  332  git status
+  333  git add README.md
+  334  git commit -m "rewrote readme"
+  335  git log
+  336  git checkout master
+  337  ls
+  338  git log
+  339  git checkout milkshake-flavours
+  340  ls
+  341  git log
+  342  git checkout history
+  343  ls
+  344  git log
+  345  git checkout master
+  346  git merge milkshake-flavours
+  347  ls
+  348  git merge history.txt
+  349  ls
+  350  cat history.txt
+  351  git checkout history
+  352  git log
+  353  git checkout milkshake-flavours
+  354  git log
+  355  git checkout master
+  356  ls
+  357  git log
+  358  git checkout milkshake-flavours
+  359  git log
+  360  git checkout master
+  361  rm history.txt
+  362  ls
+  363  git checkout history
+  364  git log
+  365  history > history.txt
