@@ -1,0 +1,285 @@
+    1  sudo apt install snapd 
+    2  sudo su
+    3  reboot
+    4  sudo apt install snapd
+    5  sudo apt install chrome
+    6  sudo apt install chromium
+    7  javac FirstExercise
+    8  java FirstExercise
+    9  java FirstExercise.java
+   10  javac FirstExercise.java
+   11  public class MyClass {
+   12  }public class MyClass {
+   13  sudo apt install default-jdk
+   14  javac FirstExercise.java
+   15  java FirstExercise
+   16  java FirstExercise.java
+   17  java FirstExercise
+   18  javac
+   19  java FirstExercise
+   20  /usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -cp /home/recruit/.config/Code/User/workspaceStorage/d0c91ab5ad39e34a82bc00298e1bb1be/redhat.java/jdt_ws/FirstProject_ff7e1f69/bin FirstExercise 
+   21  java FirstExercise
+   22  FirstExercise
+   23  javac FirstExercise.java
+   24  java FirstExercise
+   25  javac --version
+   26  sudo apt install default-jdk
+   27  javac -version
+   28  java -version
+   29  javac -version
+   30  sudo apt install default-jdk
+   31  javac -version
+   32  sudo apt install openjdk-11-jdk-headless
+   33  dpkg --list | grep -i jdk
+   34  java -version
+   35  export PATH=$PATH:$JAVA_HOME/bin
+   36  apt search openjdk
+   37  sudo apt update openjdk-11-jdk      
+   38  sudo apt update
+   39  cd file:///home/recruit/Documents/Java%20projects/FirstProject 
+   40  cd home/recruit/Documents/Java%20projects/FirstProject 
+   41  cd /Documents/Java%20projects/FirstProject 
+   42  cd Java%20projects/FirstProject 
+   43  cd documents
+   44  cd
+   45  cd Doduments
+   46  cd Documents
+   47  cd Java project
+   48  cd Java%20projects/FirstProject 
+   49  cd JavaProjects/FirstProject 
+   50  java FirstExercise
+   51  ls
+   52  pwd
+   53  cd Documents
+   54  workspace
+   55  cd workspace
+   56  cd recruit
+   57  cd ../recruit
+   58  cd ./recruit
+   59  cd-
+   60  cd -
+   61  date
+   62  hostname
+   63  touch README.md
+   64  ls
+   65  pwd
+   66  cp README.md CHANGELOG.md
+   67  ls
+   68  touch exercise.md
+   69  ls
+   70  rm exercise.md
+   71  cd
+   72  touch exercise.md
+   73  ls
+   74  mv exercise.md /tmp
+   75  cd ../tmp
+   76  cd ./tmp
+   77  cd /
+   78  cd ../tmp
+   79  ls
+   80  rm exercise.md
+   81  ls
+   82  cd -
+   83  cd Documents/workspace
+   84  cd Documents
+   85  cd ./Documents
+   86  cd Documents
+   87  cd -
+   88  cd recruit
+   89  cd /Documents
+   90  cd Documents
+   91  cd workspace
+   92  touch umuzi.md recruits.md cohorts.m
+   93  ls
+   94  tee umuzi.md recruits.md cohorts.md 
+   95  cat
+   96  cat umuzi.md
+   97  tee umuzi.md
+   98  cat umuzi.md
+   99  tee recruits.md cohorts.md 
+  100  cat cohorts.md
+  101  cat recruits.md
+  102  cat umuzi.md cohorts.md recruits.md 
+  103  cat umuzi.md cohorts.md recruits.md > summary.md
+  104  cat summary.md
+  105  echo 'The End' >> summary.md
+  106  cat summary.md
+  107  locate umuzi.org
+  108  locate umuzi.md
+  109  locate recruits.md
+  110  cd Documents/workspace
+  111  locate recruits.md
+  112  locate -b '\umuzi.md'
+  113  locate -b umuzi.md
+  114  cd ../
+  115  locate -b umuzi.md
+  116  locate -b '\umuzi.md'
+  117  locate workspace
+  118  locate umuzi.md
+  119  locate umuzi
+  120  locate JavaProjects
+  121  locate FirstExercise.java
+  122  locate umuzi.md
+  123  locate -b '\umuzi.md'
+  124  locate umuzi.md >> search_result.md
+  125  ls search_result.md
+  126  cat search_result.md
+  127  locate FirstExercise.java >> search_result.md
+  128  cat search_result.md
+  129  touch pad.md mkdir Documents
+  130  cd Documents
+  131  ls
+  132  cd -
+  133  cd Documents
+  134  touch pad.md
+  135  cd -
+  136  cd Desktop
+  137  mkdir work
+  138  cp pad.md cath pad_copy.md Documents
+  139  cp pad.md cath pad_copy.md../Documents
+  140  cp pad.md cath pad_copy.md ../Documents
+  141  cp pad.md cath pad.md ../Documents
+  142  cp pad.md pad_copy.md ../Documents
+  143  cp pad pad_copy.md ../Documents
+  144  cd Documents
+  145  cd -
+  146  cd Documents
+  147  cp pad pad_copy.md 
+  148  cp pad.md pad_copy.md 
+  149  cd -
+  150  cd /Documents
+  151  cd Documents
+  152  cd -
+  153  cd Desktop/work
+  154  cd -
+  155  cd Documents
+  156  cd -
+  157  cp ~/Documents/pad.md pad_copy.md
+  158  locate pad_copy.md
+  159  locate pad.md
+  160  find pad.md
+  161  locate updatedb
+  162  cd Desktop/work
+  163  cp ../Documents/pad.md pad_copy.md
+  164  cp ./Documents/pad.md pad_copy.md
+  165  ~/Documents/pad.md pad_copy.md
+  166  /home/recruit/Documents/pad.md pad_copy.md
+  167  cd -
+  168  locate pad_copy.md
+  169  exit
+  170  locate pad_copy.md
+  171  locate pad.md
+  172  cd
+  173  locate pad.md
+  174  cd Documents
+  175  find pad.md
+  176  locate pad.md
+  177  cd -
+  178  locate pad.md
+  179  locate FirstProject.java
+  180  find . -type f -iname '*.pdf'
+  181  find . -type f -iname '*.md'
+  182  find . -type f '*.md'
+  183  find . -type f -name '*.md'
+  184  find - '*.md'
+  185  find ~ *.md ~/Music
+  186  touch my_bio.md
+  187  find ~ *.md Music
+  188  Find /full/path/of/files -name  "*.pdf"  -exec cp {} Music;
+  189  find -name  "*.pdf"  -exec cp {} Music;
+  190  find -name  "*.md"  -exec cp {} Music;
+  191  find file:///home/recruit/Documents -name  "*.md"  -exec cp {} Music;
+  192  sudo apt install git
+  193  git clone https://github.com/simcha23/Challenges.git
+  194  cd Challenges
+  195  ls
+  196  git add *
+  197  git status
+  198  git commit -m "Linux Challenges"
+  199  git config --global user.email "simcarmahlangu@gmail.com"
+  200  git config --global user.name "simcha23"
+  201  git push
+  202  ls
+  203  git status
+  204  git commit -m "Linux Challenges"
+  205  git push
+  206  git status
+  207  git commit -m "Linux Challenges"
+  208  git add *
+  209  git status
+  210  git commit -m "Linux Challenges"
+  211  git status
+  212  ls
+  213  git push
+  214  git status
+  215  mkdir git-basic-exercises
+  216  cd git-basic-exercises
+  217  ls *
+  218  ls -a
+  219  git init
+  220  ls -a
+  221  git status
+  222  touch README.md
+  223  ls -a
+  224  git status
+  225  git log
+  226  git add
+  227  git add README.md
+  228  git status
+  229  git rm --cached <README.md>
+  230  git rm --cached README.md
+  231  git status
+  232  git add README.md
+  233  git status
+  234  git commit -m "initial commit"
+  235  git log
+  236  q
+  237  nano README.md
+  238  cat README.md
+  239  git status
+  240  git add README.md
+  241  git status
+  242  git commit -m "second commit"
+  243  nano README.md
+  244  git status
+  245  cat README.md
+  246  git log
+  247  git status
+  248  git add README.md
+  249  git status
+  250  git commit -m "third commit"
+  251  git log
+  252  git checkout 76e84922edda33771587c8141fc98e7c258ba4f7
+  253  git log
+  254  cat README.md
+  255  git checkout master
+  256  git log
+  257  cat README.md
+  258  git branch
+  259  git branch milkshake-flavours
+  260  git branch
+  261  git checkout milkshake-flavours
+  262  cat README.md
+  263  git log
+  264  git branch
+  265  nano milkshakes.md
+  266  cat milkshakes.md
+  267  git branch
+  268  git status
+  269  git commit -m "added initial flavours"
+  270  git add milkshake.md
+  271  git add milkshakes.md
+  272  git commit -m "added initial flavours"
+  273  git status
+  274  git log
+  275  git checkout milkshake-flavours
+  276  git checkout 
+  277  git branch
+  278  git branch master
+  279  git checkout master
+  280  git branch
+  281  git log
+  282  git branch history
+  283  git log
+  284  git branch
+  285  history > history.txt
